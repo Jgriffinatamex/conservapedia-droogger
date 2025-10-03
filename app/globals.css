@@ -1,42 +1,223 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 * {
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
-a {
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 14px;
+  min-height: 100vh;
+  color: #000206;
+  gap: 14px;
+  
+}
+
+header,
+main,
+footer {
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+header a {
   color: inherit;
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+header {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  padding: 14px 0;
+}
+
+.site-header {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-bottom: 1px solid #e0e0e0; /* subtle divider */
+  background: #fafafa;
+}
+
+.site-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0;
+  color: #111;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.site-title:hover {
+  color: #2563eb; /* accent color (blue) */
+}
+
+.site-tagline {
+  max-width: 700px;
+  margin: 1rem auto 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+.site-tagline .brand {
+  font-weight: 600;
+  color: #111;
+}
+
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.postsContainer {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.postCard {
+  padding: 14px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 14px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  border-radius: 14px;
+  height: 100%;
+  border: 1px solid transparent;
+  transition-duration: 200ms;
+}
+
+.postCard:hover {
+  border-color: #cbd5e1;
+}
+
+.postCard>p {
+  flex: 1;
+  color: #475569;
+}
+
+
+.statsContainer {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.unstyled {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Center article titles + intro */
+article h1,
+article h2,
+article h3 {
+  text-align: center;
+}
+
+article p:first-of-type {
+  text-align: center;
+  font-style: italic; /* optional for emphasis */
+  color: #475569;     /* softer tone */
+}
+
+/* Keep main body text readable */
+article p {
+  text-align: left;
+}
+
+article div {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  text-justify:auto;
+}
+
+article div ul {
+  list-style-position: inside;
+}
+
+/* footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+} */
+/*new chatgpt code*/
+.site-footer {
+  display: flex;
+  flex-direction: column; /* stack on mobile */
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  border-top: 1px solid #e0e0e0;
+  text-align: center;
+  background: #fafafa;
+}
+
+.site-footer .disclaimer {
+  font-size: 0.85rem;
+  color: #666;
+  max-width: 700px;
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+.site-footer .credit {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #333;
+  margin: 0;
+}
+
+.aboutContainer {
+  display: flex;
+  gap: 14px;
+  background: #fafafa;
+}
+.aboutCard {
+  padding: 14px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 14px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  border-radius: 14px;
+  height: 100%;
+  border: 1px solid transparent;
+  transition-duration: 200ms;
+}
+.aboutCard:hover {
+  border-color: #cbd5e1;
+}
+
+.aboutCard p {
+  text-align: center;
+}
+
+/*new chatgpt code*/
+@media (min-width: 640px) {
+  body {
+    padding: 24px;
+    gap: 24px;
+  }
+
+  .postsContainer {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+  }
+
+  .postCard {
+    padding: 24px;
   }
 }
