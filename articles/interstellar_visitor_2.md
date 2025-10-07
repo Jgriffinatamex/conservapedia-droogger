@@ -8,7 +8,7 @@ tags:
   - Alien Probe
   - UFO Sightings
   - spiritual awakening
-excerpt: "numero uno."
+excerpt: "The second interstellar visitor to our solar system, revealing clues about comets beyond our galaxy."
 ---
 
 # What Is Comet Borisov?
@@ -16,10 +16,12 @@ Left: A new image of the interstellar Comet 2l/Borisov. Right: A composite image
 
 Discovered in 2019 by amateur astronomer Gennadiy Borisov, 2I/Borisov was the second confirmed interstellar object and the first that clearly looked like a comet.
 
-## Why Is It Important?
+<details>
+<summary>## Why Is It Important?</summary>
 Unlike ʻOumuamua, Borisov showed classic comet features: a bright tail, visible outgassing, and a chemical composition very similar to comets found in our own solar system. Its discovery strengthened the idea that interstellar comets may be more common than once thought.
-
-## Fact vs. Fiction
+</details>
+<details>
+<summary>## Fact vs. Fiction</summary>
 
 | Claim |  Reality |
 |---|---|
@@ -27,6 +29,7 @@ Unlike ʻOumuamua, Borisov showed classic comet features: a bright tail, visible
 | Borisov proves interstellar comets are common. | Likely true — its detection suggests many such objects exist. |
 | Borisov was unique. | Unique only in being the first interstellar comet observed. |
 
+</details>
 ---
 
 
@@ -38,7 +41,7 @@ Comet Borisov is considered the most “ordinary” interstellar visitor so far,
 
 - [HAARP Explained: Weather, Mind Control, and Myths](/haarp-explained-weather-mind-control-and-myths)  
 - [The Storm: QAnon’s Prophecy](/the-storm-qanon-prophecy)  
-- [Medbeds](http://192.168.0.162:3000/recipe/medbeds-quantum-healing)  
+- [Medbeds](http://192.168.0.162:3000/article/medbeds-quantum-healing)  
 
 ---
 

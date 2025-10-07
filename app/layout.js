@@ -11,40 +11,41 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+
   // let header = (
-  //   <header>
-  //     <Link href={'/'}>
-  //       <h1 align="center" > Droogger</h1>
-  //     </Link>
-  //     <p align="center" >From UFO sightings to viral medical myths, conspiracies and myths shape how we see the world. At Droogger, we break down the stories, beliefs, and facts behind today’s most popular theories — so you can decide for yourself what’s real and what’s fiction</p>
-  //   </header>
+  //  <header className="site-header">
+  //   <Link href="/">
+  //     <h1 className="site-title">Droogger</h1>
+  //   </Link>
+  //  </header>
   // )
-  //new chatgpt code
-  let header = (
-  <header className="site-header">
-    <Link href="/">
-      <h1 className="site-title">Droogger</h1>
-    </Link>
-    
-  </header>
-)
-
   // let footer = (
-  //   <footer>
-  //     Made by GBP
-  //   </footer>
-  // )
- //chatgpt code
-let footer = (
-  <footer className="site-footer">
-    <p className="disclaimer">
-      Disclaimer: This site provides general information and does not endorse or promote the theories it covers.
-    </p>
-    <p className="credit">Made by GBP</p>
-  </footer>
-)
+  //  <footer className="site-footer">
+  //     <p className="disclaimer">
+  //       Disclaimer: This site provides general information and does not endorse or promote the theories it covers.
+  //     </p>
+  //     <p className="credit">Made by GBP</p>
+  //  </footer>
+  // ) 
+    let header = (
+    <header className="site-header">
+      <Link href="/" className="site-title">
+        Droogger
+      </Link>
+      <nav className="site-nav">
+        <Link href="/about">About</Link>
+      </nav>
+    </header>
+  );
 
- //chatgpt code 
+  let footer = (
+    <footer className="site-footer">
+      <p className="disclaimer">
+        Disclaimer: This site provides general information and does not endorse or promote the theories it covers.
+      </p>
+      <p className="credit">Made by GBP</p>
+    </footer>
+  );
   return (
     <html lang="en">
       <body className={inter.className}>

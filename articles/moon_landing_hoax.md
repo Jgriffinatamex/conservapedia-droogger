@@ -1,6 +1,6 @@
 ---
 title: "Moon Landing Hoax Explained: Myths vs Facts"
-slug: "mooon-landing-hoax-explained"
+slug: "moon-landing-hoax-explained"
 date: "2025-10-01"  # approximate based on the site data
 category: "UFOs & Space"
 tags:
@@ -9,7 +9,7 @@ tags:
   - hoax
   - NASA
   - space race
-excerpt: ""
+excerpt: "Why some believe the Apollo landings were faked, and the evidence proving humanity reached the Moon."
 ---
 
 # What Is the Moon Landing Hoax Theory?
@@ -18,15 +18,18 @@ Since 1969, when Neil Armstrong first set foot on the Moon, conspiracy theories 
 
 This page explores the Moon landing conspiracy explained, examines the most common claims, and compares them with the scientific evidence.
 
-## Debunking the Moon Landing Hoax
-Scientists, engineers, and astronauts have consistently provided evidence that the Moon landings were real:
- - Shadows and Lighting: Shadows fall at odd angles because of uneven terrain, not studio lights.
- - No Stars in Photos: Camera exposure settings made stars invisible, not absent.
- - Flag Movement: The flag had a metal rod to appear extended; it rippled when planted but did not wave in a vacuum.
- - Moon Rocks: Over 800 pounds of lunar rock samples exist, verified worldwide as extraterrestrial.
- - Independent Tracking: The Soviet Union, who had every reason to disprove the landings, tracked Apollo missions and acknowledged their success.
+<details>
+<summary>## Debunking the Moon Landing Hoax</summary>
+Scientists, engineers, and astronauts have consistently provided evidence that the Moon landings were real
+ - **Shadows and Lighting:** Shadows fall at odd angles because of uneven terrain, not studio lights.
+ - **No Stars in Photos:** Camera exposure settings made stars invisible, not absent.
+ - **Flag Movement:** The flag had a metal rod to appear extended; it rippled when planted but did not wave in a vacuum.
+ - **Moon Rocks:** Over 800 pounds of lunar rock samples exist, verified worldwide as extraterrestrial.
+ - **Independent Tracking:** The Soviet Union, who had every reason to disprove the landings, tracked Apollo missions and acknowledged their success.
+</details>
 
 ---
+
 ## Fact vs. Fiction
 
 | Claim | Reality |
@@ -46,7 +49,7 @@ The Moon landing hoax conspiracy is one of the most famous but most thoroughly d
 
 - [HAARP Explained: Weather, Mind Control, and Myths](/haarp-explained-weather-mind-control-and-myths)  
 - [The Storm: QAnon’s Prophecy](/the-storm-qanon-prophecy)  
-- [Medbeds](http://192.168.0.162:3000/recipe/medbeds-quantum-healing)  
+- [Medbeds](http://192.168.0.162:3000/article/medbeds-quantum-healing)  
 
 ---
 

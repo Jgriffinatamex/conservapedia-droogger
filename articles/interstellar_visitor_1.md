@@ -8,16 +8,22 @@ tags:
   - Alien Probe
   - UFO Sightings
   - spiritual awakening
-excerpt: "A Scout?"
+excerpt: "The first interstellar object ever observed — its discovery, theories, and the mysteries it left behind."
 ---
 
 # What Is ʻOumuamua?
 Discovered in 2017, ʻOumuamua (meaning “scout” in Hawaiian) was the first confirmed interstellar object to pass through our solar system. Its elongated, cigar-like shape and unusual acceleration sparked worldwide fascination.
 
-## Why Is It Controversial?
+<details>
+<summary>## Why Is It Controversial?</summary>
 ʻOumuamua did not behave like typical asteroids or comets. Its acceleration couldn’t be fully explained by gravity alone, leading some researchers—most notably Avi Loeb—to suggest it might be an alien probe. Most astronomers, however, attribute the acceleration to natural outgassing or solar radiation pressure.
 
-## Fact vs. Fiction
+</details>
+
+---
+
+<details>
+<summary>## Fact vs. Fiction</summary>
 
 | Claim |  Reality |
 |---|---|
@@ -25,13 +31,15 @@ Discovered in 2017, ʻOumuamua (meaning “scout” in Hawaiian) was the first c
 | It’s an asteroid or comet fragment. | Supported by mainstream science, though unusual. |
 | Its acceleration proves intelligent design. | More likely explained by outgassing or solar effects. |
 | ʻOumuamua is unique. | It’s the first confirmed interstellar object, but not the last. |
+
+</details>
 ---
 
 ## Related Topics
 
 - [HAARP Explained: Weather, Mind Control, and Myths](/haarp-explained-weather-mind-control-and-myths)  
 - [The Storm: QAnon’s Prophecy](/the-storm-qanon-prophecy)  
-- [Medbeds](http://192.168.0.162:3000/recipe/medbeds-quantum-healing)  
+- [Medbeds](http://192.168.0.162:3000/article/medbeds-quantum-healing)  
 
 ---
 

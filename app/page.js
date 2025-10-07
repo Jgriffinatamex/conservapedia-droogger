@@ -1,4 +1,4 @@
-import Hero from "@/components/Hero";
+//import Hero from "@/components/Hero";
 import Postcard from "@/components/Postcard";
 import getPostMetadata from "@/utils/getPostMetadata";
 //import Image from "next/image";
@@ -10,9 +10,9 @@ export default function Home() {
   //console.log(postMetadata)
   return (
     <main>
-        <div className="aboutContainer">
+        {/* <div className="aboutContainer">
           <Hero/>
-        </div>
+        </div> */}
         <div className="postsContainer">
           {postMetadata.map((post,postIndex)=>{
             return (

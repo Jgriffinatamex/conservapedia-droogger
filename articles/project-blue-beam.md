@@ -2,10 +2,10 @@
 title: "Project Blue Beam: Serge Monast’s Vision of a New World Order"
 date: "2025-09-06"
 category: "UFOs & Space"
-description: “Project Blue Beam is one of the most enduring conspiracy theories...”
+excerpt: “Project Blue Beam is one of the most enduring conspiracy theories...”
 ---
 
-## Introduction
+# What is Project Blue Beam
 
 Project Blue Beam is one of the most enduring conspiracy theories connecting advanced technology, religion, and global control. First introduced by Canadian journalist [Serge Monast](https://www.warwicks.com/book/9798875840876) in the 1990s, the theory claims that NASA and world governments are secretly developing technology to simulate the Second Coming of Christ (or other religious figures) in the sky, uniting humanity under a [New World Order](https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/ctec-publications/new-world-order-historical-origins-dangerous)
 
@@ -13,32 +13,38 @@ But what exactly did Monast propose, and how has this theory evolved over time?
 
 ---
 
-## Origins of Project Blue Beam
+<details>
+<summary>## Origins of Project Blue Beam</summary>
 
 - Introduced in 1994 by Serge Monast through lectures and self-published writings.  
 - Claimed NASA would stage a fake alien invasion or divine event using holograms, lasers, and mind-control technologies.  
 - Linked to existing fears of global surveillance and religious manipulation.
+</details>
 
-## The Four Stages of Project Blue Beam (According to Monast)
+<details>
+<summary>## The Four Stages of Project Blue Beam (According to Monast)</summary>
 
-- Discrediting Archaeology – Fake discoveries would rewrite human history.  
-- Massive Space Show – Holographic projections of religious figures in the sky.  
-- Artificial Telepathy – Mind-control using ELF (extremely low frequency) waves.  
-- New World Religion & Global Government – A single authoritarian system uniting humanity.
+- **Discrediting Archaeology** – Fake discoveries would rewrite human history.  
+- **Massive Space Show** – Holographic projections of religious figures in the sky.  
+- **Artificial Telepathy** – Mind-control using ELF (extremely low frequency) waves.  
+- **New World Religion & Global Government** – A single authoritarian system uniting humanity.
+</details>
 
----
-
-## Serge Monast’s Role and Legacy
+<details>
+<summary>## Serge Monast’s Role and Legacy</summary>
 
 - Serge Monast was a Canadian investigative journalist and conspiracy theorist.  
 - His writings gained traction in alternative circles but were largely dismissed by mainstream media.  
 - He died in 1996, which some of his followers claim was suspicious.
+</details>
 
-## Project Blue Beam in Popular Culture
+<details>
+<summary>## Project Blue Beam in Popular Culture</summary>
 
 - Resurfaces in discussions about UFO disclosure and government secrecy.  
 - Tied into newer conspiracies such as **5G mind control** and **HAARP weather control**.  
 - Often cited when unexplained **sky phenomena** or mass sightings occur.
+</details>
 
 ---
 

@@ -9,21 +9,25 @@ tags:
   - false flag
   - RFK Jr
   - The Storm
-excerpt: ""
+excerpt: "How a false online rumor about secret networks spread, why people believed it, and the real-world consequences it caused."
 ---
 
 # What is Pizzagate?
 Pizzagate is a conspiracy theory that began during the 2016 U.S. presidential election. It falsely claimed that a child trafficking ring was being run out of a Washington, D.C. pizzeria called Comet Ping Pong, allegedly linked to political figures.
 
-## How It Spread
+<details>
+<summary>## How It Spread</summary>
 The theory grew out of misinterpreted “Podesta emails” leaked by WikiLeaks. Online forums, blogs, and social media amplified the claims, often tying them to broader QAnon-style narratives.
+</details>
 
-## The Reality
+<details>
+<summary>## The Reality</summary>
 No evidence has ever supported these claims.
 The pizzeria and its employees were harassed and threatened.
 In December 2016, a man entered the restaurant with a rifle to “investigate.” No trafficking or criminal activity was found.
 ## Why It Matters
 Pizzagate showed how internet rumors can escalate into real-world danger, serving as a precursor to the rise of QAnon and other large-scale online conspiracy movements.
+</details>
 
 ---
 
@@ -39,7 +43,7 @@ Pizzagate showed how internet rumors can escalate into real-world danger, servin
 
 - [HAARP Explained: Weather, Mind Control, and Myths](/haarp-explained-weather-mind-control-and-myths)  
 - [The Storm: QAnon’s Prophecy](/the-storm-qanon-prophecy)  
-- [Medbeds](http://192.168.0.162:3000/recipe/medbeds-quantum-healing)  
+- [Medbeds](http://192.168.0.162:3000/article/medbeds-quantum-healing)  
 
 ---
 

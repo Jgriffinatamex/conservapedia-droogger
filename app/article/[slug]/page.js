@@ -6,7 +6,7 @@ import matter from "gray-matter"
 
 async function getPostContent(slug) {
     const folder = 'articles/'
-    const file = folder + `${slug}.mdx`
+    const file = folder + `${slug}.md`
     const content = await fs.readFile(file, 'utf8')
 
     const matterResult = matter(content)

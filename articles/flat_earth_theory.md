@@ -1,6 +1,6 @@
 ---
 title: "Flat Earth : Origins, Myths & Facts"
-slug: "fleath-explained-origins-myths"
+slug: "flat-earth-explained-origins-myths"
 date: "2025-10-01"  # approximate based on the site data
 category: "Political & Social Movements"
 tags:
@@ -9,7 +9,7 @@ tags:
   - qanon
   - space race
   - Astronomy
-excerpt: ""
+excerpt: "Exploring the origins of flat Earth belief, why it persists, and the evidence for a round planet."
 ---
 
 # What is The Flat Earth Theory?
@@ -18,11 +18,12 @@ The Flat Earth theory asserts that the Earth is flat rather than spherical, desp
 
 While often dismissed as a pseudoscience, the movement offers insight into how misinformation spreads online.
 
-## Core Flat Earth Claims
+<details>
+<summary>## Core Flat Earth Claims</summary>
 - The Earth is flat and enclosed by an ice wall.
 - NASA and scientists hide the truth.
 - Gravity is a hoax or misunderstood.
-
+</details>
 ---
 
 ## Fact vs. Fiction: Flat Earth
@@ -38,7 +39,7 @@ While often dismissed as a pseudoscience, the movement offers insight into how m
 
 - [HAARP Explained: Weather, Mind Control, and Myths](/haarp-explained-weather-mind-control-and-myths)  
 - [The Storm: QAnon’s Prophecy](/the-storm-qanon-prophecy)  
-- [Medbeds](http://192.168.0.162:3000/recipe/medbeds-quantum-healing)  
+- [Medbeds](http://192.168.0.162:3000/article/medbeds-quantum-healing)  
 
 ---
 
