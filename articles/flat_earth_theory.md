@@ -29,11 +29,11 @@ While often dismissed as a pseudoscience, the movement offers insight into how m
 ## Fact vs. Fiction: Flat Earth
 | Claim | Reality |
 |---|---|
-| The Earth is flat. | ❌ False – Observations, satellites, and physics prove Earth is round. |
-| NASA hides evidence of a flat Earth. | ❌ False – NASA data and images consistently confirm a spherical Earth. |
-| Gravity doesn’t exist. | ❌ False – Gravity is scientifically measured and essential for life on Earth. |
-| Flat Earth explains horizons better than a sphere. | ❌ False – Observations are consistent with a spherical Earth. |
-| Flat Earth is a harmless theory. | ⚠️ Partly true – Mostly harmless, but can influence skepticism of science. |
+| ✅The Earth is flat. | ❌ False – Observations, satellites, and physics prove Earth is round. |
+| ✅NASA hides evidence of a flat Earth. | ❌ False – NASA data and images consistently confirm a spherical Earth. |
+| ✅Gravity doesn’t exist. | ❌ False – Gravity is scientifically measured and essential for life on Earth. |
+| ✅Flat Earth explains horizons better than a sphere. | ❌ False – Observations are consistent with a spherical Earth. |
+| ✅Flat Earth is a harmless theory. | ⚠️ Partly true – Mostly harmless, but can influence skepticism of science. |
 
 ## Related Topics
 

@@ -253,9 +253,9 @@ The story of COVID-19 is far from over, as its effects continue to ripple throug
 
 | Fact | Fiction |
 |---|---|
-| Fact: COVID-19 is caused by SARS-CoV-2, a coronavirus first identified in 2019. | Fiction: COVID-19 was fully planned and engineered as a “Plandemic.”| 
-| Fact: The elderly and immunocompromised are most vulnerable. | Fiction: COVID-19 only affects “weak” individuals — healthy people can also suffer severe illness. |
-| Fact: Debate continues about the virus’s origin, but the natural spillover is the leading theory. | Fiction: The lab leak theory has been proven true — it has not. |
+| ✅Fact: COVID-19 is caused by SARS-CoV-2, a coronavirus first identified in 2019. | ❌Fiction: COVID-19 was fully planned and engineered as a “Plandemic.”| 
+| ✅Fact: The elderly and immunocompromised are most vulnerable. | ❌Fiction: COVID-19 only affects “weak” individuals — healthy people can also suffer severe illness. |
+| ✅Fact: Debate continues about the virus’s origin, but the natural spillover is the leading theory. | ❌Fiction: The lab leak theory has been proven true — it has not. |
 
 ## Conclusion
 COVID-19 continues to evolve as both a biological and social phenomenon. While the acute phase of the pandemic has passed, the virus remains part of our infectious disease landscape. Understanding its origins, transmission, and impact helps inform both current health decisions and future pandemic preparedness efforts.
