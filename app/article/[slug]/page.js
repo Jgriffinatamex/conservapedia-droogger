@@ -38,7 +38,7 @@ export default async function RecipePage({ params }) {
     //console.log(post)
     return (
         <main>
-            <article>
+            <article className="aboutCard">
                 <Markdown>{post.content}</Markdown>
             </article>
         </main>

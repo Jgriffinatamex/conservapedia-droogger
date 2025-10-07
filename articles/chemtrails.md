@@ -10,7 +10,7 @@ tags:
   - conspiracy
 excerpt: "Are the aircraft trails above us harmless ice clouds—or signs of secret chemical spraying? Explore the debate and the science behind the chemtrail controversy."
 ---
-
+![contrails](/public/download.jpeg)
 # What are Chemtrails
 
 For years, people have looked up at the sky and noticed long white streaks left behind by airplanes. To some, these trails are harmless water vapor called [contrails](https://www.nasa.gov). To others, they are evidence of a secret [government spraying theory](https://archive.legmt.gov), commonly referred to as chemtrails.
@@ -20,7 +20,7 @@ This page looks at both perspectives — the popular belief, the scientific expl
 ---
 
 <details>
-<summary>## Understanding the Basic Claims</summary>
+<summary> ## Understanding the Basic Claims </summary>
 
 The term “chemtrail” is a portmanteau of “chemical” and “trail,” first popularized in the late 1990s. Proponents of chemtrail theories argue that certain aircraft trails are not ordinary contrails, but rather evidence of deliberate chemical spraying programs conducted by governments or other organizations.
 

@@ -98,6 +98,7 @@ Communication Failures: Public health authorities have often struggled to commun
 ---
 
 ## Prominent Figures and Leaders
+
 ### [Andrew Wakefield](https://en.wikipedia.org/wiki/Andrew_Wakefield)
 British gastroenterologist who published fraudulent MMR-autism study
 
@@ -107,6 +108,8 @@ Produced documentary “Vaxxed” (2016) continuing autism claims
 
 Continues to tour and speak despite scientific consensus against his work
 
+---
+
 ### [Jenny McCarthy](https://en.wikipedia.org/wiki/Jenny_McCarthy)
 Actress and model who became prominent vaccine critic after son’s autism diagnosis
 
@@ -115,6 +118,8 @@ Promoted “vaccines cause autism” theory on major media platforms
 Co-founded Generation Rescue advocacy organization
 
 Later moderated her position but continues to advocate for “safer” vaccines
+
+---
 
 ### [Robert F. Kennedy Jr](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.).
 Environmental lawyer and nephew of President John F. Kennedy
@@ -127,6 +132,8 @@ Gained prominence during COVID-19 pandemic with vaccine misinformation
 
 2024 presidential candidate running partly on anti-vaccine platform
 
+---
+
 ### [Del Bigtree](https://en.wikipedia.org/wiki/Del_Bigtree)
 Television producer who became anti-vaccine activist
 
@@ -135,6 +142,8 @@ Produced “Vaxxed” documentary with Wakefield
 Hosts “The HighWire” podcast promoting vaccine skepticism
 
 Founded Informed Consent Action Network (ICAN)
+
+---
 
 ### [Dr. Joseph Mercola](https://en.wikipedia.org/wiki/Joseph_Mercola)
 Osteopathic physician promoting alternative health approaches

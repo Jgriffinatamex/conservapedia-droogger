@@ -144,7 +144,7 @@ The adrenochrome story remains ongoing, with new developments in research, techn
 ### Fact vs Fiction
 
 | Fact | Fiction |
-|---|---|
+|:---:|:---:|
 | ✅Adrenochrome exists and is a natural byproduct of adrenaline. | ❌It is harvested from children. |
 | ✅Medical studies show mild biological effects. | ❌It is a fountain of youth or psychedelic drug |
 

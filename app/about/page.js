@@ -11,7 +11,7 @@ export default function AboutPage(props){
     //console.log(post)
     return(
         <main>
-            <article>
+            <article className="aboutCard">
                 <h1>About Droogger</h1>
                     <h2>Our Mission</h2>
                         <p>Droogger exists to explain internet theories, myths, and conspiracies in plain language. We don’t promote them — we document and clarify them, so readers can understand where these ideas come from, how they spread, and why people believe them.</p>
